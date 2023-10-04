@@ -1,6 +1,6 @@
 # Flappy Bird: Unity Edition
 
-![Flappy Bird: Unity Edition](flappy_bird_screenshot.png)
+![Flappy Bird: Unity Edition](image.png)
 
 ## Description
 Flappy Bird: Unity Edition is a Windows game that recreates the classic Flappy Bird game using the Unity game engine. It offers addictive and challenging gameplay, stunning visuals, and smooth controls.
