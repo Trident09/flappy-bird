@@ -29,4 +29,13 @@ public class BirdScript : MonoBehaviour
         logic.gameOver();
         BirdIsAlive = false;
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 3)
+        {
+            logic.gameOver();
+            BirdIsAlive = false;
+        }
+    }
 }
